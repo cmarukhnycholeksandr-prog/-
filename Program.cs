@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GroceryStore
+namespace Bookstore
 {
     class Program
     {
@@ -66,3 +66,4 @@ namespace GroceryStore
         }
     }
 }
+
